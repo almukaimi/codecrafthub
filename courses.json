@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Math I",
+        "description": "math 1",
+        "target_date": "2026-05-19",
+        "status": "In Progress",
+        "created_at": "2026-05-16 14:52:11"
+    },
+    {
+        "id": 2,
+        "name": "intro to algo",
+        "description": "ll",
+        "target_date": "2026-05-07",
+        "status": "Not Started",
+        "created_at": "2026-05-16 14:53:08"
+    },
+    {
+        "id": 3,
+        "name": "kdk",
+        "description": "df",
+        "target_date": "2026-05-19",
+        "status": "Completed",
+        "created_at": "2026-05-16 14:53:21"
+    },
+    {
+        "id": 4,
+        "name": "name",
+        "description": "description",
+        "target_date": "2026-04-29",
+        "status": "Not Started",
+        "created_at": "2026-05-16 15:05:04"
+    },
+    {
+        "id": 5,
+        "name": "another course",
+        "description": "description",
+        "target_date": "2026-05-02",
+        "status": "In Progress",
+        "created_at": "2026-05-16 15:13:51"
+    },
+    {
+        "id": 6,
+        "name": "123",
+        "description": "123456",
+        "target_date": "2026-04-29",
+        "status": "Completed",
+        "created_at": "2026-05-16 15:14:05"
+    }
+]
